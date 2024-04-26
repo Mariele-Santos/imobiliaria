@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.geral{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.paragrafo{
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+}
+
+/* --------------------------seção 1 -------------------*/
+.section1{
+    background-color: rgb(120, 186, 224);
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    width: auto; 
+}
+
+.img1{
+    width: 200px;
+    height: 200px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+
+.a1{
+    text-align: center;
+    color: black;
+    padding-left: 10px;
+}
+
+
+/* --------------------------seção 2 -------------------*/
+.section2{
+    margin-top: auto;
+    margin-left: auto;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+.img2{
+    width: 700px;
+    height: 250px;
+    padding-top: 50px;  
+}
+
+/* --------------------------seção 3 -------------------*/
+
+.section3{
+    padding-top:50px;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+.img3{
+    width: 500px;
+    height: 350px;
+    padding-top: 20px;
+}
+
+.pa{
+    text-align: justify;
+    font-size: 18px;
+}
+.h2a{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgba(39, 86, 241, 0.795);
+}
+
+.span1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: size 20px; ;
+    color:rgba(39, 86, 241, 0.795)
+}
+
+ul{
+    font-size: 18px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+
+/* --------------------------seção 4 -------------------*/
+.section4{
+    background-color: rgba(34, 123, 255, 0.932);
+    height: 250px;
+    padding-top: 20px;  
+}
+.pb{
+    font-size: 18px;
+    width: 700px;
+}
+
+
+/* --------------------------seção 5 -------------------*/
+.section5{
+   
+
+}
+.h2b{
+    font-weight: bold;
+    text-align: center;
+}
+
+.a2{
+    color:rgb(38, 38, 226)
+}
+.img4{
+    width: 500px;
+    height: 350px;
+    padding-top:20px;
+}
+
+.span1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: size 20px; ;
+    color:rgba(39, 86, 241, 0.795)
+}
+/* --------------------------seção 6 -------------------*/
+.section6{
+    background-color: rgb(4, 119, 196);
+    height: 900px;
+    padding-top: 30px;
+}
+
+.mapa{
+    height: 300px;
+    width: 600px;
+    padding-top: 30px;
+}
+
+div{
+    padding-top: 30px;
+}
+
+.pc{
+    font-size: 18px;
+    color: aliceblue;
+    background-color: black;
+    margin-top: 30px;
+}
+.a3{
+    border-radius: 5px;
+    background-color: aliceblue;
+    color: rgba(13, 105, 243, 0.973);
+    padding: 10px 5px;
+    
+    
+    
+}
+
+.links2{
+    text-align: center;
+    margin: 20px auto 20px;
+    padding: 10px;
+    
+}
+.h2c{
+    text-align: center;
+    color: beige;
+}
+
+.span2{
+    color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
